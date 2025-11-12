@@ -12,9 +12,9 @@ POST http://localhost:3000/users HTTP/1.1
 content-type: application/json
 
 {
-    "firstName":"Rojo",
-    "lastName":"Joepla",
-    "email":"rojoepla@gmail.com",
+    "firstName":"Rado",
+    "lastName":"Rabearimanana",
+    "email":"rado@gmail.com",
     "gender":"female",
     "birthday":"1970-12-04",
     "address": "Lot ITS 5 BIS Itaosy",
